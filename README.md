@@ -8,7 +8,7 @@ Its the akronym of the brand [I-Love-Chaos](https://www.etsy.com/shop/iLoveChaos
 
 ## Installation
 
-copy the .py files into the ./scripts folder of the automatic1111 gui installation
+copy the .py files into the ./scripts folder of the [Automatic1111 Stable Diffusion Web UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) installation
 
 # Available Plugins
 
