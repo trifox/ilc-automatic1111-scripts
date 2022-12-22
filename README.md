@@ -16,6 +16,7 @@ copy the .py files into the ./scripts folder of the [Automatic1111 Stable Diffus
 
 This is a very simple plugin, it is used by c.k. in the youtube channel [ChaosTube](https://www.youtube.com/channel/UCej4aqqeusL5iUnKHjmKjLQ) for demonstrating what happens when the denoising parameter is changed. It has been extended to include the cfg scale parameter as well. Other than 
 that the script is derived from [Animator Script](https://github.com/Animator-Anon/Animator) this script is included for reference wether anyone is interested in how it is done.
+
 <img src="examples/1-20221222022730.gif"
      alt="Markdown Monster icon"
      style="width:512px; margin-right: 10px;" />
