@@ -16,10 +16,16 @@ copy the .py files into the ./scripts folder of the [Automatic1111 Stable Diffus
 
 This is a very simple plugin, it is used by c.k. in the youtube channel [ChaosTube](https://www.youtube.com/channel/UCej4aqqeusL5iUnKHjmKjLQ) for demonstrating what happens when the denoising parameter is changed. It has been extended to include the cfg scale parameter as well. Other than 
 that the script is derived from [Animator Script](https://github.com/Animator-Anon/Animator) this script is included for reference wether anyone is interested in how it is done.
-
+<img src="examples/1-20221222022730.gif"
+     alt="Markdown Monster icon"
+     style="width:512px; margin-right: 10px;" />
 ## ILC Image Stitcher
 
 The script has been used to create the title image of the [Fractal Art Calendar 2023 - dawn of an era](https://www.etsy.com/listing/1343211412/fractal-art-calendar-2023). In principle this script
 takes an input folder, arranges all found images in a rectangular manner and fills the gaps using outpainting.
 
 Derived from the poor-mans-outpainting, it uses a consecutive way to create new images so that already created outpaints are incorporated into the next step.
+ 
+<img src="examples/fractalcalendar2013-title.jpg"
+     alt="Markdown Monster icon"
+     style="width:512px; margin-right: 10px;" />
