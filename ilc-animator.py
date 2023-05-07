@@ -238,6 +238,7 @@ We follow a gui first directive here, so we reduce all possible parameters and p
 ##### ILC Simple Animator
     
 """+ILC_PLUGIN_DESCRIPTION+"""
+    
 
 The interpolation is eased by SineInOut.
 
